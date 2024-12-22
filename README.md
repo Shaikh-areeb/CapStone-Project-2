@@ -1,4 +1,4 @@
-# CapStone Project 2 #  ## Diamond Price Prediction Using Machine Learning ##
+# Diamond Price Prediction Using Machine Learning 
 
 # Data Source :- 
 Kaggle (Diamond Price Dataset with 50,000 records).
