@@ -4,7 +4,7 @@
 Kaggle (Diamond Price Dataset with 50,000 records).
 Features: 
 1) Numerical: Carat, Dimensions (x, y, z). 
-2)  Categorical: Cut (Fair, Good, Very Good, Premium, Ideal), Color (J to D), Clarity (I1 to IF). 
+2) Categorical: Cut (Fair, Good, Very Good, Premium, Ideal), Color (J to D), Clarity (I1 to IF). 
 **Target Variable:-** Price in USD. 
 
 # Problem Statement ‼️
