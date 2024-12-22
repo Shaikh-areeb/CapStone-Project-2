@@ -23,6 +23,17 @@ The aim is to:
 3) Utilize Random Forest, a tree-based model, as the primary algorithm to predict diamond prices.
 4) Retain outliers in the dataset to reflect real-world variability and ensure realistic predictions.
 
+# Methodology 
+**Data Preparation:-** 
+1) Perform exploratory data analysis (EDA) to identify patterns and trends. 
+2) Handle missing data (if any) and ensure consistent formatting. 
+3) Retain outliers as they reflect valid variability in diamond characteristics. 
+
+# Model Development
+
+1) Build and evaluate both tree-based models (e.g., Decision Tree, Random Forest, XGBoost) and scaling-based models (e.g., Linear Regression, KNN, SVR). 
+2) Perform hyperparameter tuning using GridSearchCV to optimize model performance. 
+
 # Challenges ⚔️
 1) **Outliers:-** Managing outliers to ensure they do not overly bias the model while retaining their valid variability. 
 2) **Categorical Features:-** Encoding qualitative attributes like cut, color, and clarity effectively for both tree-based and scaling-based models. 
