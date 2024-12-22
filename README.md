@@ -2,6 +2,11 @@
 
 # Data Source :- 
 Kaggle (Diamond Price Dataset with 50,000 records).
+Features: 
+o Numerical: Carat, Dimensions (x, y, z). 
+o Categorical: Cut (Fair, Good, Very Good, Premium, Ideal), Color (J to D), 
+Clarity (I1 to IF). 
+o Target Variable: Price in USD. 
 
 # Problem Statement ‼️
 In the diamond industry, accurate pricing is a critical challenge due to the variability of diamond features such as carat, cut, colour, clarity, and dimensions. 
