@@ -1,7 +1,4 @@
-# CapStone Project 2
-
-# Diamond Price Prediction Using Machine Learning
-
+# CapStone Project 2 #  ## Diamond Price Prediction Using Machine Learning ##
 
 # Data Source :- 
 Kaggle (Diamond Price Dataset with 50,000 records).
@@ -11,17 +8,17 @@ In the diamond industry, accurate pricing is a critical challenge due to the var
 The pricing process often involves manual evaluation, which can be subjective and inconsistent. 
 This creates the need for a robust and data-driven solution to estimate diamond prices reliably and transparently.
 
-# Objective  
+# Objective 📌
 The objective of this project is to predict the price of diamonds based on key features such as carat, cut, color, clarity, and dimensions. By leveraging machine learning techniques, the project aims to build an accurate predictive model that can estimate diamond prices, providing insights for the jewelry industry and potential buyers
 
-# Aim
+# Aim 🎯
 The aim is to:
-Analyze the relationship between various diamond features and their price.
-Build and evaluate multiple machine learning models to identify the most accurate one.
-Utilize Random Forest, a tree-based model, as the primary algorithm to predict diamond prices.
-Retain outliers in the dataset to reflect real-world variability and ensure realistic predictions.
+1) Analyze the relationship between various diamond features and their price.
+2) Build and evaluate multiple machine learning models to identify the most accurate one.
+3) Utilize Random Forest, a tree-based model, as the primary algorithm to predict diamond prices.
+4) Retain outliers in the dataset to reflect real-world variability and ensure realistic predictions.
 
-# Challenges 
+# Challenges ⚔️
 1) **Outliers:-** Managing outliers to ensure they do not overly bias the model while retaining their valid variability. 
 2) **Categorical Features:-** Encoding qualitative attributes like cut, color, and clarity effectively for both tree-based and scaling-based models. 
 3) **Model Tuning:-** Balancing computation time during hyperparameter tuning for a large dataset. 
