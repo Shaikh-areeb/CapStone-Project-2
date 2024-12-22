@@ -5,10 +5,10 @@ This creates the need for a robust and data-driven solution to estimate diamond 
 
 # Practical Applications 💁
 
-1) **E-Commerce Platforms:** Automating pricing recommendations for diamonds listed on online marketplaces. 
+1) **E-Commerce Platforms :-** Automating pricing recommendations for diamonds listed on online marketplaces. 
 
-2) **Inventory Management:** Helping jewelers value their inventory based on consistent pricing. 
+2) **Inventory Management :-** Helping jewelers value their inventory based on consistent pricing. 
 
-3) **Fraud Detection:** Identifying discrepancies in diamond pricing for authentication and fraud prevention. 
+3) **Fraud Detection :-** Identifying discrepancies in diamond pricing for authentication and fraud prevention. 
 
-4) **Customer Decision Support:** Assisting customers in understanding and justifying diamond prices during purchases. 
+4) **Customer Decision Support :-** Assisting customers in understanding and justifying diamond prices during purchases. 
