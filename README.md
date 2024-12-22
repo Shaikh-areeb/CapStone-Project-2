@@ -9,9 +9,9 @@ The pricing process often involves manual evaluation, which can be subjective an
 This creates the need for a robust and data-driven solution to estimate diamond prices reliably and transparently.
 
 # Challenges 
-1) **Outliers:** Managing outliers to ensure they do not overly bias the model while retaining their valid variability. 
-2) **Categorical Features:** Encoding qualitative attributes like cut, color, and clarity effectively for both tree-based and scaling-based models. 
-3) **Model Tuning:** Balancing computation time during hyperparameter tuning for a large dataset. 
+1) **Outliers:-** Managing outliers to ensure they do not overly bias the model while retaining their valid variability. 
+2) **Categorical Features:-** Encoding qualitative attributes like cut, color, and clarity effectively for both tree-based and scaling-based models. 
+3) **Model Tuning:-** Balancing computation time during hyperparameter tuning for a large dataset. 
 
 # Practical Applications 💁
 
