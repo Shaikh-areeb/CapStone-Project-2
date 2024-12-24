@@ -1,4 +1,5 @@
 # Diamond Price Prediction Using Machine Learning 
+![image](https://github.com/Shaikh-areeb/CapStone-Project-2/blob/main/4Cs-of-Diamond-The-Definitive-Guide.png)
 
 # Data Source :- 
 Kaggle (Diamond Price Dataset with 50,000 records).
