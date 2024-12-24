@@ -33,16 +33,16 @@ The aim is to:
 # Insigths & Visuals
 
 1) Scatter Plot of Carat Vs Price
-![image](Images/Scatter Plot (size Vs Price).png)
+![image]()
 
 2) Scatter Plot of Size Vs Price
-![image](Images/Scatter Plot (carat Vs Price).png)
+![image](https://github.com/Shaikh-areeb/CapStone-Project-2/blob/main/Images/Scatter%20Plot%20(size%20vs%20price).png)
 
 3) Heat Map For Correlation Matrix
 ![image](https://github.com/Shaikh-areeb/CapStone-Project-2/blob/main/Images/Heat%20Map.png)
 
 4) Feature Impoartace
-![Images/Feature importance.png](https://github.com/Shaikh-areeb/CapStone-Project-2/blob/main/Images/Feature%20importance.png)
+![Image](https://github.com/Shaikh-areeb/CapStone-Project-2/blob/main/Images/Feature%20importance.png)
 
 # Model Development
 
