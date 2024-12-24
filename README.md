@@ -42,14 +42,35 @@ The aim is to:
 
 # Model Performance Comparison
 
-Model	Train R²	Test R²	Train MSE	Test MSE
-Decision Tree	0.886651	0.877203	1.814021e+06	1.842908e+06
-Random Forest	0.897212	0.879838	1.645005e+06	1.803351e+06
-XGBoost	0.887510	0.879653	1.800265e+06	1.806139e+06
-AdaBoost	0.869742	0.866318	2.084621e+06	2.006263e+06
-Linear Regression	0.852629	0.851238	2.358506e+06	2.232572e+06
-SVR	0.855425	0.851829	2.313748e+06	2.223712e+06
-KNN	0.898196	0.870080	1.629253e+06	1.949793e+06
+| **Model**           | **Train R²**   | **Test R²**    | **Train MSE**       | **Test MSE**       |
+|----------------------|----------------|----------------|---------------------|---------------------|
+| **Decision Tree**    | 0.886651       | 0.877203       | 1.814021e+06        | 1.842908e+06        |
+| **Random Forest**    | 0.897212       | 0.879838       | 1.645005e+06        | 1.803351e+06        |
+| **XGBoost**          | 0.887510       | 0.879653       | 1.800265e+06        | 1.806139e+06        |
+| **AdaBoost**         | 0.869742       | 0.866318       | 2.084621e+06        | 2.006263e+06        |
+| **Linear Regression**| 0.852629       | 0.851238       | 2.358506e+06        | 2.232572e+06        |
+| **SVR**              | 0.855425       | 0.851829       | 2.313748e+06        | 2.223712e+06        |
+| **KNN**              | 0.898196       | 0.870080       | 1.629253e+06        | 1.949793e+06        |
+
+# Summary 
+
+diamond price analysis and prediction using the Python programming language. 
+According to the diamond price analysis, 
+we can say that the price and size of premium diamonds are higher than other types of diamonds. 
+
+# Conclusion 
+
+Impact of Models:-
+Accurate diamond price predictions help jewelers, buyers, and insurers determine fair prices.
+
+Best Model: 
+XGboost, due to its high R2 and low MSE on both training and test sets.
+
+Good Alternatives: 
+Random Forest , Decison Tree and KNN also show strong performance.
+
+Baseline Models: 
+Linear Regression and SVR provide good baselines but are outperformed by ensemble methods.
 
 # Practical Applications 💁
 
