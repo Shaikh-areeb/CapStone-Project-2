@@ -42,7 +42,7 @@ The aim is to:
 ![image](Images/Heat Map.png)
 
 4) Feature Impoartace
-![image]([Images/Feature importance.png](https://github.com/Shaikh-areeb/CapStone-Project-2/blob/main/Images/Feature%20importance.png))
+![Images/Feature importance.png](https://github.com/Shaikh-areeb/CapStone-Project-2/blob/main/Images/Feature%20importance.png)
 
 # Model Development
 
