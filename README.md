@@ -33,7 +33,7 @@ The aim is to:
 # Insigths & Visuals
 
 1) Scatter Plot of Carat Vs Price
-![image]()
+![image](https://github.com/Shaikh-areeb/CapStone-Project-2/blob/main/Images/Scatter%20Plot%202%20(carat%20vs%20Price).png)
 
 2) Scatter Plot of Size Vs Price
 ![image](https://github.com/Shaikh-areeb/CapStone-Project-2/blob/main/Images/Scatter%20Plot%20(size%20vs%20price).png)
