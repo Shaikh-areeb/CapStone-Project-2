@@ -44,9 +44,6 @@ The aim is to:
 4) Feature Impoartace
 ![Image](https://github.com/Shaikh-areeb/CapStone-Project-2/blob/main/Images/Feature%20importance.png)
 
-5) Actual Vs Predicted Price Of Diamonds
-![image](https://github.com/Shaikh-areeb/CapStone-Project-2/blob/main/Images/Actual%20Vs%20Predicted%20Prices.png)
-
 # Model Development
 
 1) Build and evaluate both tree-based models (e.g., Decision Tree, Random Forest, XGBoost) and scaling-based models (e.g., Linear Regression, KNN, SVR). 
@@ -68,6 +65,10 @@ The aim is to:
 | **Linear Regression**| 0.852629       | 0.851238       | 2.358506e+06        | 2.232572e+06        |
 | **SVR**              | 0.855425       | 0.851829       | 2.313748e+06        | 2.223712e+06        |
 | **KNN**              | 0.898196       | 0.870080       | 1.629253e+06        | 1.949793e+06        |
+
+# Actual Vs Predicted Diamond Prices
+
+![image](https://github.com/Shaikh-areeb/CapStone-Project-2/blob/main/Images/Actual%20Vs%20Predicted%20Prices.png)
 
 # Summary 
 
