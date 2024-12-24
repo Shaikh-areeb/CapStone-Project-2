@@ -38,7 +38,18 @@ The aim is to:
 # Challenges ⚔️
 1) **Outliers:-** Managing outliers to ensure they do not overly bias the model while retaining their valid variability. 
 2) **Categorical Features:-** Encoding qualitative attributes like cut, color, and clarity effectively for both tree-based and scaling-based models. 
-3) **Model Tuning:-** Balancing computation time during hyperparameter tuning for a large dataset. 
+3) **Model Tuning:-** Balancing computation time during hyperparameter tuning for a large dataset.
+
+# Model Performance Comparison
+
+Model	Train R²	Test R²	Train MSE	Test MSE
+Decision Tree	0.886651	0.877203	1.814021e+06	1.842908e+06
+Random Forest	0.897212	0.879838	1.645005e+06	1.803351e+06
+XGBoost	0.887510	0.879653	1.800265e+06	1.806139e+06
+AdaBoost	0.869742	0.866318	2.084621e+06	2.006263e+06
+Linear Regression	0.852629	0.851238	2.358506e+06	2.232572e+06
+SVR	0.855425	0.851829	2.313748e+06	2.223712e+06
+KNN	0.898196	0.870080	1.629253e+06	1.949793e+06
 
 # Practical Applications 💁
 
