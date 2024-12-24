@@ -33,16 +33,16 @@ The aim is to:
 # Insigths & Visuals
 
 1) Scatter Plot of Carat Vs Price
-![image]()
+![image](Images/Scatter Plot (size Vs Price).png)
 
 2) Scatter Plot of Size Vs Price
-![image]()
+![image](Images/Scatter Plot (carat Vs Price).png)
 
 3) Heat Map For Correlation Matrix
-![image]()
+![image](Images/Heat Map.png)
 
 4) Feature Impoartace
-![image]()
+![image](Images/Feature importance.png)
 
 # Model Development
 
