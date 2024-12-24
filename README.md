@@ -39,7 +39,7 @@ The aim is to:
 ![image](Images/Scatter Plot (carat Vs Price).png)
 
 3) Heat Map For Correlation Matrix
-![image](Images/Heat Map.png)
+![image](https://github.com/Shaikh-areeb/CapStone-Project-2/blob/main/Images/Heat%20Map.png)
 
 4) Feature Impoartace
 ![Images/Feature importance.png](https://github.com/Shaikh-areeb/CapStone-Project-2/blob/main/Images/Feature%20importance.png)
