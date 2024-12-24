@@ -28,7 +28,21 @@ The aim is to:
 **Data Preparation:-** 
 1) Perform exploratory data analysis (EDA) to identify patterns and trends. 
 2) Handle missing data (if any) and ensure consistent formatting. 
-3) Retain outliers as they reflect valid variability in diamond characteristics. 
+3) Retain outliers as they reflect valid variability in diamond characteristics.
+
+# Insigths & Visuals
+
+1) Scatter Plot of Carat Vs Price
+![image]()
+
+2) Scatter Plot of Size Vs Price
+![image]()
+
+3) Heat Map For Correlation Matrix
+![image]()
+
+4) Feature Impoartace
+![image]()
 
 # Model Development
 
