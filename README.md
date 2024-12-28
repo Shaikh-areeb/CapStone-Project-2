@@ -98,4 +98,58 @@ Linear Regression and SVR provide good baselines but are outperformed by ensembl
 
 3) **Fraud Detection :-** Identifying discrepancies in diamond pricing for authentication and fraud prevention. 
 
-4) **Customer Decision Support :-** Assisting customers in understanding and justifying diamond prices during purchases. 
+4) **Customer Decision Support :-** Assisting customers in understanding and justifying diamond prices during purchases.
+
+# Diamond Price Prediction Web App
+
+![image]()
+
+## Overview
+
+This web application provides an interactive platform for predicting the price of diamonds based on various attributes such as carat, cut, color, clarity, and dimensions (x, y, z). It utilizes a machine learning model saved with Pickle for seamless integration and a user-friendly interface built with Streamlit.
+
+# Features
+
+1) **Interactive Interface:** Simple and intuitive design for entering diamond attributes.
+
+2) **Model Integration:** Machine learning model saved with Pickle for fast and reliable predictions.
+
+3) **Real-time Predictions:** Instantly displays price predictions upon entering input.
+
+4) **Streamlit Framework:** Leverages Streamlit to create an interactive and visually appealing UI.
+
+# Technologies Used
+
+**Frontend & Backend:** Streamlit framework of Python.
+
+**Machine Learning:** Model implemented using scikit-learn and saved using Pickle.
+
+**Deployment:** Hosted on platforms like Heroku, AWS, or a similar cloud service for accessibility.
+
+# Input Features
+
+The app requires the following inputs:
+
+1) **Carat:** Weight of the diamond.
+
+2) **Cut:** Quality of the diamond's cut (e.g., Ideal, Premium).
+
+3) **Dimensions:** Measurements of the diamond (x, y, z).
+
+# How to Use
+
+1) Enter the required attributes for the diamond in the provided fields.
+
+2) Click the "Predict" button.
+
+3) View the predicted diamond price and additional insights.
+
+# Future Enhancements
+
+1) Incorporate visualizations to display pricing trends based on input parameters.
+
+2) Allow comparison between predicted prices and actual market values.
+
+3) Enhance the model with additional features to improve prediction accuracy.
+
+
