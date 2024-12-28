@@ -21,7 +21,7 @@ The objective of this project is to predict the price of diamonds based on key f
 The aim is to:
 1) Analyze the relationship between various diamond features and their price.
 2) Build and evaluate multiple machine learning models to identify the most accurate one.
-3) Utilize Random Forest, a tree-based model, as the primary algorithm to predict diamond prices.
+3) Utilize XGBoost, as the primary algorithm to predict diamond prices.
 4) Retain outliers in the dataset to reflect real-world variability and ensure realistic predictions.
 
 # Methodology 
@@ -124,7 +124,7 @@ This web application provides an interactive platform for predicting the price o
 
 **Machine Learning:** Model implemented using scikit-learn and saved using Pickle.
 
-**Deployment:** Hosted on platforms like Heroku, AWS, or a similar cloud service for accessibility.
+**Deployment:** Hosted on platforms like AWS, or a similar cloud service for accessibility.
 
 # Input Features
 
