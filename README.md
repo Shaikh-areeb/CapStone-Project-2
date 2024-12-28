@@ -102,7 +102,7 @@ Linear Regression and SVR provide good baselines but are outperformed by ensembl
 
 # Diamond Price Prediction Web App
 
-![image]()
+![image](https://github.com/Shaikh-areeb/CapStone-Project-2/blob/main/Images/Web%20App%20of%20Project.png)
 
 ## Overview
 
