@@ -2,9 +2,9 @@ import streamlit as st
 import pickle 
 import numpy as np
 
-with open (r"E:\Diamond Price Prediction\xgboost_best_model.pkl","rb") as file:
+with open("prediction_app_files/xgboost_best_model.pkl", "rb") as file:
     model = pickle.load(file)
-
+    
 # Title of the app
 st.title("Diamond Price Prediction App")
 st.write("Enter the details of the diamond to predict its price.")
