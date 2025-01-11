@@ -154,7 +154,7 @@ The app requires the following inputs:
 
 ### My Streamlit App
 
-Check out my web app here: [My Streamlit App]([http://your-app-link.com](https://diamond-price-predictions.streamlit.app/))
+Check out my web app here: ![My Streamlit App]([http://your-app-link.com](https://diamond-price-predictions.streamlit.app/)
 
 
 
