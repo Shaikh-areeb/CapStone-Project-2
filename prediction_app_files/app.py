@@ -6,7 +6,7 @@ with open("prediction_app_files/xgboost_best_model.pkl", "rb") as file:
     model = pickle.load(file)
 
 # Display the image
-st.image("prediction_app_files/template_image.png", caption="Template Image", use_column_width=True)
+st.image("prediction_app_files/4Cs-of-Diamond-The-Definitive-Guide.png", caption="Template Image", use_column_width=True)
 
 # Title of the app
 st.title("Diamond Price Prediction App")
