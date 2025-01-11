@@ -152,4 +152,9 @@ The app requires the following inputs:
 
 3) Enhance the model with additional features to improve prediction accuracy.
 
+### My Streamlit App
+
+Check out my web app here: [My Streamlit App]([http://your-app-link.com](https://diamond-price-predictions.streamlit.app/))
+
+
 
