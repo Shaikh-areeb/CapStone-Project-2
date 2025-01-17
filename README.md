@@ -1,3 +1,7 @@
+### My Streamlit App
+
+Check out my web app here: [My Streamlit App](https://diamond-price-predictions.streamlit.app/)
+
 # Diamond Price Prediction Using Machine Learning 
 ![image](Images/4Cs-of-Diamond-The-Definitive-Guide.png)
 
@@ -152,9 +156,7 @@ The app requires the following inputs:
 
 3) Enhance the model with additional features to improve prediction accuracy.
 
-### My Streamlit App
 
-Check out my web app here: [My Streamlit App](https://diamond-price-predictions.streamlit.app/)
 
 
 
